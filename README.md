@@ -1,1 +1,2 @@
 # brython
+$ pip install brython
